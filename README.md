@@ -14,6 +14,4 @@ And if someone want to make small improvement in their code I can do it for free
 BECAUSE MY PRIME GOAL IS TO LEARN LEARN AND LEARN and if your are beginner then join me.
 
 
-Future improvements in this file will be like this
-Complete DMA, ADC, DAC, Timers, USB-OTG and CAN.
-After that RTOS -> AND EMBEDDED LINUX.
+
